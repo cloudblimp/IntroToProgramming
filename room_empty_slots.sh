@@ -1,4 +1,4 @@
-Room=$5
+Room=$1
 
 # Define the time slots for the week (up to 12:50)
 Time=(
